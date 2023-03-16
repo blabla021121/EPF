@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EPF</string>
+    <string name="menu_home">Rumah</string>
+    <string name="action_about">Tentang</string>
+    <string name="action_settings">Tetapan</string>
+    <string name="menu_gallery">Galeri</string>
+    <string name="age">Umur</string>
+    <string name="exit">Keluar</string>
+    <string name="year">Tahun</string>
+</resources>
