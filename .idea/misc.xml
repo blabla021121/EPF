@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/layout/fragment_profile.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/menu/main.xml" value="0.31203703703703706" />
+        <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF/app/src/main/res/menu/profile_menu.xml" value="0.31203703703703706" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF2/app/src/main/res/drawable/ic_baseline_dividend_on_24.xml" value="0.2985" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF2/app/src/main/res/drawable/ic_baseline_investment_24.xml" value="0.2985" />
         <entry key="..\:/Users/TARUC/AndroidStudioProjects/EPF2/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />

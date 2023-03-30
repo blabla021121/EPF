@@ -11,7 +11,7 @@ import my.edu.tarc.epf.R
 import my.edu.tarc.epf.databinding.FragmentAboutBinding
 
 class AboutFragment : Fragment() {
-    private var _binding : FragmentAboutBinding? =null
+    private var _binding : FragmentAboutBinding? = null
     val binding get() = _binding!!
 
     override fun onCreateView(
